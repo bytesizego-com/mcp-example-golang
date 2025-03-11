@@ -3,7 +3,7 @@
 **Learn more about how to use this [here](https://www.bytesizego.com/lessons/extending-cursor-mcp-golang)**
 
 
-This is an example implementation of a Model Control Protocol (MCP) server in Go for use with Cursor.
+This is an example implementation of a Model Context Protocol (MCP) server in Go for use with Cursor.
 
 ## Features
 
