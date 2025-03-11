@@ -1,6 +1,7 @@
 # MCP Example Server for Cursor
 
-Learn more about how to use this [here](https://www.bytesizego.com/lessons/extending-cursor-mcp-golang)
+**Learn more about how to use this [here](https://www.bytesizego.com/lessons/extending-cursor-mcp-golang)**
+
 
 This is an example implementation of a Model Control Protocol (MCP) server in Go for use with Cursor.
 
